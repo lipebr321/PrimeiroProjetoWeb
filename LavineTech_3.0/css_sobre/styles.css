@@ -1,0 +1,88 @@
+#banner_sobre{ 
+    width: 100%;
+    height: 100%;
+    float: left;
+    position: relative;
+ }
+
+
+#banner_sobre img{
+    width: 80%;
+    height: 600px;
+    margin-top: 150px;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    float: left;
+    z-index: 0;
+    filter:brightness(50%)
+}
+
+
+#caixa{
+    position: relative;
+    z-index: 1;
+    width: 600px;
+    height: 80px;
+    margin-left: 34.5%;
+    float: left;
+    margin-top: -350px;
+}
+
+
+#caixa p{
+     font-size: 60px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+     color: aliceblue;
+}
+
+
+#feliz{
+    margin-top: 5%;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+
+#feliz p{
+    margin-top: 150px;
+    float: left;
+    width: 30%;
+    font-size: large;
+    margin-left: 10%;
+    text-align: justify;
+}
+
+
+#feliz img{
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#hardware{
+    margin-top: 10%; 
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+#hardware img{
+    float: left;
+    width: 30%;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+     
+}
+
+#hardware p{
+    margin-top: 60px;
+    float: left;
+    width: 39%;
+    font-size: large;
+    margin-left: 10%;
+    text-align: justify;
+}
